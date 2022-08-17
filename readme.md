@@ -10,4 +10,4 @@ If you are a graphic designer or if you know one, LVASI would need a new more pe
 
 ## Thank you ! ❤  
   
-  [![Twitter](https://img.shields.io/badge/Follow%20me-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fpublish.twitter.com%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5EPuma_n&region=follow_link&screen_name=Puma_n)  
+  [![Twitter](https://img.shields.io/badge/Suivez--moi%20%2F%20Follow%20me-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fpublish.twitter.com%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5EPuma_n&region=follow_link&screen_name=Puma_n)  
