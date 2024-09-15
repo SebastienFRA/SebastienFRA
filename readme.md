@@ -1,6 +1,8 @@
 ## About me  👨🏻
 Hi, i'm Sébastien, the french "developper" behind LVASI. I have no real coding knowledge. I learn little by little when I need to improve LVASI.  
 I created LVASI more by challenge than by necessity, and as I like to share what I do, it's here!  
+
+I also coding CalCook, a software to calculate price of cooking preparation.
   
 ## What can you do to help us ? 🤝  
 You can submit software to add to LVASI.  
