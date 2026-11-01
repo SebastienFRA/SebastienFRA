@@ -1,17 +1,39 @@
-## About me  👨🏻
-Hi, i'm Sébastien, the french "developper" behind LVASI. I have no real coding knowledge. I learn little by little when I need to improve LVASI.  
-I created LVASI more by challenge than by necessity, and as I like to share what I do, it's here!  
+## About me 👨🏻
 
-I also coding CalCook, a software to calculate price of cooking preparation.
-  
-## What can you do to help us ? 🤝  
-You can submit software to add to LVASI.  
-To help LVASI to develop, you can share it with your entourage, on your social networks...  
-You can also give your opinion on the sites where LVASI is available ([Softpedia](https://www.softpedia.com/get/Internet/Download-Managers/L-V-A-S-I.shtml), [SourceForge](https://sourceforge.net/projects/lvasi/), [AlternativeTo](https://alternativeto.net/software/lvasi/about/)).  
-If you are better than me to code, you can make a C++ version of LVASI with more features. 
-  
+Hi, I'm Sébastien, a French self-taught software creator who enjoys turning ideas into useful applications.
+
+I don't have a formal coding background. I started by learning to code little by little, discovering new things whenever I needed to improve my projects.
+
+My journey has also evolved with AI-assisted development, commonly known as *vibe coding*. I now use AI tools to help me turn my ideas into working software. I remain involved in every project, from defining features and making technical decisions to testing, troubleshooting and improving the results.
+
+### My projects 🚀
+
+- **[LVASI](https://github.com/SebastienFRA/LVASI)** – My first major software project. Its original version was entirely hand-coded by me, as I learned programming along the way. The newer version has since been rebuilt with the help of AI-assisted development.
+
+- **[OpenLoto](https://github.com/SebastienFRA/openloto)** – A free and open-source lottery management software designed for non-profit organizations and associations. Created through vibe coding, it handles live draws, winning ticket verification, public displays and lets players follow the draw on their phones.
+
+  🌐 [Visit openloto.org](https://openloto.org/)
+
+- **CalCook** – A small tool designed to calculate the cost of cooking preparations.
+
+All my projects share the same philosophy: turning ideas into useful tools and making them accessible to everyone.
+
+## How can you help? 🤝
+
+There are several ways to support my projects:
+
+- ⭐ **Star my repositories** on GitHub to help others discover them.
+- 📢 **Spread the word** by sharing my projects with your friends, communities and social networks.
+- 💡 **Share your ideas and suggestions** – feedback is always welcome!
+- 🐛 **Report bugs** or suggest improvements through GitHub Issues.
+- 🤝 **Contribute** if you have development skills and want to help improve these projects.
+
+You can also support OpenLoto financially. Donations help cover hosting costs and make it possible to develop new services for associations.
+
+❤️ [Support OpenLoto](https://openloto.org/#soutenir)
+
 <a href='https://ko-fi.com/V7V7EJIL4' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
-## Thank you ! ❤  
-  
-[![Twitter](https://img.shields.io/badge/Suivez--moi%20%2F%20Follow%20me-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fpublish.twitter.com%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5EPuma_n&region=follow_link&screen_name=Puma_n)  
+## Thank you for stopping by! ❤
+
+[![Twitter](https://img.shields.io/badge/Follow%20me-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=Puma_n)
